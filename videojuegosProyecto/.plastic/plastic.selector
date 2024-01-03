@@ -1,0 +1,4 @@
+repository "videojuegosProyecto@Paulfriki55@cloud"
+  path "/"
+    br "/main"
+    co "/main"
