@@ -9,7 +9,7 @@ public class PlayerMovement : MonoBehaviour
     public LayerMask groundMask; 
     public bool isGrounded; 
 
-    Rigidbody rb;
+    private new Rigidbody rb;
 
     void Start()
     {
