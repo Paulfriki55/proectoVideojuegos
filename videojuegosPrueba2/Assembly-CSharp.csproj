@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\SeguirPersonaje.cs" />
     <Compile Include="Assets\Scripts\ControladorPersonaje.cs" />
     <Compile Include="Assets\ChangeScene.cs" />
+    <Compile Include="Assets\MenuInicial.cs" />
     <Compile Include="Assets\Scripts\FollowPlayer.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
   </ItemGroup>
